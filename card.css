@@ -1,0 +1,26 @@
+body{
+    background-image: url(kelly-sikkema-tk9RQCq5eQo-unsplash.jpg);
+    background-size: cover;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px auto;
+    text-align: center;
+    padding: 20px;
+    width: 400px;
+    background-color: wheat;
+    /* background-image: linear-gradient(45deg, #ff52e5, #f6d242); */
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: #1b1c1e;
+    border-radius: 10px;
+    border-bottom: 10px solid #009b77;
+}
+.border-blue{
+    border: 2px dotted blue;
+}
+.image{
+    width: 100px;
+    border-radius: 6px;
+}
